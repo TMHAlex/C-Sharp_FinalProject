@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\bin\x64\Debug\P76071048_FinalProject.exe.config
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\bin\x64\Debug\P76071048_FinalProject.exe
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\bin\x64\Debug\P76071048_FinalProject.pdb
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.Form1.resources
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.exe
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.pdb
+C:\Users\Administrator\Desktop\P76071048_FinalProject\P76071048_FinalProject\obj\x64\Debug\P76071048_FinalProject.Form2.resources
